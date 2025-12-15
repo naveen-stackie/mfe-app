@@ -75,7 +75,7 @@ yarn start
 
 The remote app will run on:
 
-```bash
+```arduino
 http://localhost:3001
 http://localhost:3001/entry.js
 ```
